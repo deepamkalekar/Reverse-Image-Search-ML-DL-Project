@@ -63,7 +63,7 @@ if uploaded_file is not None:
         # recommendention
         indices = recommend(features,feature_list)
         # show
-        col1,col2,col3,col4,col5 = st.beta_columns(5)
+        col1,col2,col3,col4,col5 = st.columns(5)
 
         with col1:
             st.image(filenames[indices[0][0]])

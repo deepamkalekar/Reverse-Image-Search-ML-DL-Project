@@ -49,8 +49,7 @@ streamlit run main.py
 ## Demo
 Click On ```Browse File``` and upload image
 ![preview1](https://github.com/deepamkalekar/Reverse-Image-Search-ML-DL-Project/blob/master/preview1.png)
-/
-Output based on Image
+
 ![preview2](https://github.com/deepamkalekar/Reverse-Image-Search-ML-DL-Project/blob/master/preview2.png)
 
   
